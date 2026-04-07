@@ -1,2 +1,7 @@
 CMakeFiles/
 CMakeCache.txt
+build/
+local_test
+local_test.cpp
+dbg.cpp
+quick_test.cpp
